@@ -21,7 +21,7 @@ repository               : "SauMStats/saumstats.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foo-bar-identity-th.jpg"
+  avatar           : "ResearcherAI_dp.png"
   name             : "Saurabh Mishra"
   pronouns         : # example: "she/her"  
   bio              : "Trying PhD at IIT Hyderabad"
